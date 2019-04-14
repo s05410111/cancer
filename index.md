@@ -55,8 +55,34 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 3.	空氣汙染環境
 4.	良好生活品質
 
+### 乳癌
 
-### Jekyll Themes
+乳癌前兆
+1.	無痛性乳房腫塊
+2.	乳頭凹陷
+3.	乳頭異樣分泌物， 尤其是帶血分泌物
+4.	乳房外型改變，局部凹陷或凸出
+5.	乳房皮膚有橘 皮樣變化，紅腫或潰爛
+6.	腫大的腋下淋巴腺
+
+乳癌治療
+1.	手術切除
+2.	放射線治療 
+3.	化學治療
+4.	賀爾蒙療法
+
+乳癌預防10種預防乳癌的生活方式
+1.	喝綠茶或咖啡
+2.	新鮮蔬果579
+3.	減肥
+4.	睡到自然醒
+5.	每天運動流汗30分鐘
+6.	跳開脂肪誘惑
+7.	戒菸、戒酒、戒檳榔
+8.	餵母乳
+9.	保持輕鬆的情緒
+10.	去做癌症篩檢
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s05410111/cancer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
