@@ -4,27 +4,18 @@ You can use the [editor on GitHub](https://github.com/s05410111/cancer/edit/mast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 大腸癌
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+大腸癌七種典型症狀
+1.	未減肥但體重逐漸減輕
+2.	裡急後重，常出現不明原因的持續便意
+3.	出現輕微的缺鐵性貧血
+4.	排便習慣改變
+5.	糞便如鉛筆一樣細
+6.	排便出血或糞便中帶有黏液
+7.	經常出現腹痛或絞痛
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
