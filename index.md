@@ -28,7 +28,33 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <br>健保自6月起已針對大腸癌第四期轉移的病患給付化學藥物「抗癌妥（irinotecan）」合併標靶藥「癌思婷（bevacizumab）」作為癌友的第一線治療</br>
 
 ### 肺癌
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+肺癌前兆
+1.	持續性咳嗽、咳血
+2.	胸悶或胸痛
+3.	呼吸發喘或困難
+4.	聲音嘶啞
+5.	吞嚥困難
+6.	頸部淋巴結腫大
+7.	極度疲倦
+8.	體重下降
+9.	食慾不振
+
+肺癌治療
+1.	手術治療
+2.	化學治療
+3.	放射線治療
+4.	標靶治療
+5.	免疫治療
+6.	多元療法
+
+預防肺癌牢記4招
+從肺癌五年平均存活率來看，因肺癌導致死亡的機率是相當高的，雖然醫療科技日益進步，但治療過程中免不了因手術或化療帶來痛楚。醫學界常說：「預防勝於治療」自然有它的道理。
+1.	不吸菸與戒菸
+2.	留意職場汙染
+3.	空氣汙染環境
+4.	良好生活品質
+
 
 ### Jekyll Themes
 
