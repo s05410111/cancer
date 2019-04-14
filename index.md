@@ -15,6 +15,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 6.	排便出血或糞便中帶有黏液
 7.	經常出現腹痛或絞痛
 
+大腸癌預防：均衡飲食
+預防大腸癌是一件輕而易舉的事。你只要在日常飲食和生活中作出小小改變，奉行以下的健康生活習慣，便能預防或減少患上大腸癌的風險
+1.	多吃全穀類、豆類、水果和蔬菜等高纖維食物
+2.	減少進食紅肉和加工肉食
+3.	恆常運動
+4.	保持健康體重及腰圍
+5.	避免飲酒
+6.	避免吸煙
+
+大腸癌治療
+健保自6月起已針對大腸癌第四期轉移的病患給付化學藥物「抗癌妥（irinotecan）」合併標靶藥「癌思婷（bevacizumab）」作為癌友的第一線治療
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
