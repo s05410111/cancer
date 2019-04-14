@@ -6,27 +6,31 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <img src="https://66.media.tumblr.com/1fd55b502ce5b7ab103f473342fbb8e2/tumblr_oz0h28hakO1tz0k5lo1_1280.gif" alt="報導 ／...">
 
-<html xml:lang="zh-TW" lang="zh-TW" xmlns:user="urn:user-namespace-here" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:hyweb="urn:gip-hyweb-com" xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>海巡署近十年海域救難統計.swf</title>
-</head>
-<body>
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.adobe.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="1024" height="768" id="myMovieName">
-<param name="movie" value="/GipOpen/wSite/interactive/interactive210709_2.swf"> 
-<param name="quality" value="high">
-<param name="bgcolor" value="#FFFFFF">
-<param name="play" value="true">
-<param name="loop" value="true">
-<param name="bgcolor" value="#FFFFFF">
+<HTML xml:lang="zh-TW" lang="zh-TW" xmlns:user="urn:user-namespace-here" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:hyweb="urn:gip-hyweb-com" xmlns="http://www.w3.org/1999/xhtml">
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<TITLE>海巡署近十年海域救難統計.swf</TITLE>
+</HEAD>
+<BODY>
+<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+codebase="http://fpdownload.adobe.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" 
+WIDTH="1024" HEIGHT="768" id="myMovieName">
+<PARAM NAME="movie" VALUE="/GipOpen/wSite/interactive/interactive210709_2.swf"> 
+<PARAM NAME="quality" VALUE="high">
+<PARAM NAME="bgcolor" VALUE="#FFFFFF">
+<PARAM NAME="play" VALUE="true">
+<PARAM NAME="loop" VALUE="true">
+<PARAM NAME=bgcolor VALUE="#FFFFFF">
 海巡署近十年海域救難統計.swf
-<embed src="interactive210709_2.swf" quality="high" bgcolor="#FFFFFF" width="1024" height="768" name="myMovieName" align="" type="application/x-shockwave-flash" play="true" loop="true" pluginspage="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+<EMBED src="interactive210709_2.swf" quality=high bgcolor=#FFFFFF WIDTH="1024" HEIGHT="768" 
+NAME="myMovieName" ALIGN="" TYPE="application/x-shockwave-flash" 
+play="true" loop="true" 
+PLUGINSPAGE="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+</EMBED>
+</OBJECT>
+</BODY>
+</HTML>
 
-</object>
-
-
-</body></html>
-
-<rect x="0" y="10" width="767.546875" height="538" fill="rgba(100%,100%,100%,0)"></rect>
 
 
 ### 大腸癌
