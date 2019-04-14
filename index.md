@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/s05410111/cancer/edit/mast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<iframe src="https://plotdb.io/v/chart/20863" width="100%" height="600px" allowfullscreen="true" frameborder="0"></iframe>
+
 ### 大腸癌
 
 大腸癌七種典型症狀
