@@ -4,27 +4,25 @@ You can use the [editor on GitHub](https://github.com/s05410111/cancer/edit/mast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<img src="https://66.media.tumblr.com/1fd55b502ce5b7ab103f473342fbb8e2/tumblr_oz0h28hakO1tz0k5lo1_1280.gif" alt="報導 ／...">
-
-<html xml:lang="zh-TW" lang="zh-TW" xmlns:user="urn:user-namespace-here" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:hyweb="urn:gip-hyweb-com" xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>海巡署近十年海域救難統計.swf</title>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>焦點統計圖表</title>
+<script src="GAnalytics.js" language="javascript" type="text/javascript"  > </script>
+<link rel="icon" href="images/favicon.png" type="image/ico" />
 </head>
-<body>
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.adobe.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="1024" height="768" id="myMovieName">
-<param name="movie" value="/GipOpen/wSite/interactive/interactive210709_2.swf"> 
-<param name="quality" value="high">
-<param name="bgcolor" value="#FFFFFF">
-<param name="play" value="true">
-<param name="loop" value="true">
-<param name="bgcolor" value="#FFFFFF">
-海巡署近十年海域救難統計.swf
-<embed src="interactive210709_2.swf" quality="high" bgcolor="#FFFFFF" width="1024" height="768" name="myMovieName" align="" type="application/x-shockwave-flash" play="true" loop="true" pluginspage="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
 
-</object>
+<frameset rows="10%,*" frameborder="no" border="0" framespacing="0">
+  <frameset rows="*" cols="25%,25%,25%,25%" framespacing="0" frameborder="no" border="0">
+		<frame src="trade.html" name="leftFrame1" scrolling="No" noresize="noresize" id="leftFrame1" title="leftFrame1" />
+		<frame src="tax.html" name="leftFrame2" scrolling="No" noresize="noresize" id="leftFrame2" title="leftFrame2" />
+		<frame src="debt.html" name="rightFrame1" scrolling="No" noresize="noresize" id="rightFrame1" title="rightFrame1" />
+		<frame src="govnt.html" name="rightFrame2" scrolling="No" noresize="noresize" id="rightFrame2" title="rightFrame2" />
+  </frameset>
+    <frame src="canvas.html" name="mainFrame" id="mainFrame" title="mainFrame" />
+</frameset>
+</html>
 
-
-</body></html>
 
 
 ### 大腸癌
