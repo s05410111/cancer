@@ -4,8 +4,7 @@ You can use the [editor on GitHub](https://github.com/s05410111/cancer/edit/mast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<iframe src="https://plotdb.io/v/chart/20863" width="100%" height="600px" allowfullscreen="true" frameborder="0"></iframe>
-<a href="https://plotdb.io/v/chart/20863"><img src="https://plotdb.io/v/chart/20863" width="100%" height="600px"></a>
+<img src="https://66.media.tumblr.com/1fd55b502ce5b7ab103f473342fbb8e2/tumblr_oz0h28hakO1tz0k5lo1_1280.gif" alt="報導 ／...">
 
 <rect x="0" y="10" width="767.546875" height="538" fill="rgba(100%,100%,100%,0)"></rect>
 
