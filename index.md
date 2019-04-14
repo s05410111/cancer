@@ -15,7 +15,7 @@ You can use the [editor on GitHub](https://github.com/s05410111/cancer/edit/mast
 5.	糞便如鉛筆一樣細
 6.	排便出血或糞便中帶有黏液
 7.	經常出現腹痛或絞痛
-<iframe src="https://plotdb.io/v/chart/20863" width="100%" height="600px" allowfullscreen="true" frameborder="0"></iframe>
+
 大腸癌預防：均衡飲食
 <br>預防大腸癌是一件輕而易舉的事。你只要在日常飲食和生活中作出小小改變，奉行以下的健康生活習慣，便能預防或減少患上大腸癌的風險</br>
 1.	多吃全穀類、豆類、水果和蔬菜等高纖維食物
