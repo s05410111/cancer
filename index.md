@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/s05410111/cancer/edit/master/index.md) to maintain and preview the content fo
 
-<iframe src="https://plotdb.io/v/chart/21067" width="100%" height="600px" allowfullscreen="true" frameborder="0"></iframe>
+
 
 
 ### 大腸癌
