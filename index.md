@@ -1,92 +1,114 @@
-## 三大癌症在台灣
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Ch06-01</title>
+        <style>img{float:right}
+		img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+ .c {
+  text-align: center
+}
+            body {background: #FFFFBB}   /* 將文件背景設為橘色 */
+            ul   {color     : black}   /* 將清的文字顏色設為藍色 */
+			
+</table>
+        </style>
+		
+    </head>
+    <body>
+      <h1><p style="font-size:300%;" class="c">三大癌症在台灣 </h1> 
+	  
+  
+      <ul>	<iframe src="https://plotdb.io/v/chart/20863" width="100%" height="600px" allowfullscreen="true" frameborder="0"></iframe>
+	  <div class="center">
+  
+	<p><br>根據世界衛生組織近幾年來的統計數據，台灣罹癌患者人數不斷上升，目前有近十萬台灣人被診斷出患有癌症。依據死亡率來換算，每十萬人中會有二○三人死於癌症，對照台灣總體死亡率每十萬人有七三三人死亡，由此可知台灣罹癌死亡比率是相當高的，甚至是目前亞洲癌症死亡率最高的。</br></p>
+        <h2>癌症是如何產生？</h2>
+	</div>
+		<br><iframe width="966" height="543" src="https://www.youtube.com/embed/OclyNtCO4IY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></br>
+		<h3>根據台灣衛福部國健署公布，台灣前三大癌症分別為：大腸癌、肺癌、乳癌。</h3>
+        <h2>一、	大腸癌</h2>
+		<img src="http://ibuddhalove.com/blog/wp-content/uploads/2015/11/1030521-7%E5%80%8B%E7%94%9F%E6%B4%BB%E7%BF%92%E6%85%A3%E3%80%80%E9%81%A0%E9%9B%A2%E5%A4%A7%E8%85%B8%E7%99%8C%E5%A8%81%E8%84%85.jpg"width="500px" height="400px"
+		<br><h3>	典型症狀：</h3></br>
+		<h4><br>1.	未減肥但體重逐漸減輕</br>
+		<br>2.	裡急後重，常出現不明原因的持續便意</br>
+		<br>3.	出現輕微的缺鐵性貧血</br>
+		<br>4.	排便習慣改變</br>
+		<br>5.	糞便如鉛筆一樣細</br>
+		<br>6.	排便出血或糞便中帶有黏液</br>
+		<br>7.	經常出現腹痛或絞痛</br>
+		<br>預防：均衡飲食</br>
+		<br>1.	多吃全穀類、豆類、水果和蔬菜等高纖維食物</br>
+		<br>2.	減少進食紅肉和加工肉食</br>
+		<br>3.	恆常運動</br>
+		<br>4.	保持健康體重及腰圍</br>
+		<br>5.	避免飲酒</br>
+		<br>6.	避免吸煙</br></h4>
+		<h3><br>治療：</br></h3>
+		<h4><br>健保自6月起已針對大腸癌第四期轉移的病患給付化學藥物「抗癌妥（irinotecan）」合併標靶藥「癌思婷（bevacizumab）」作為癌友的第一線治療。</br></h4>
+		<h2>二、	肺癌</h2>
 
-You can use the [editor on GitHub](https://github.com/s05410111/cancer/edit/master/index.md) to maintain and preview the content fo
+		<img src="https://1.share.photo.xuite.net/yesfunday/1140259/10942705/1080038248_l.jpg"width="450px" height="400px">
+		<img src="https://amazon.life.com.tw/proxy.php?url=http%3A%2F%2Fhavemary.com%2Fupload%2Fpic%2F2016-09-08-1473354088.jpg"width="450px" height="400px">
+		<img src="https://pic.pimg.tw/unclegene6666/1499354282-2177400607_n.png"width="450px" height="400px">
+		<img src="http://as.chdev.tw/kb/storage/photos/1/5/5/23dba8ae552eccd7d9996e10ea22fbebe949de83.jpg"width="450px" height="400px">
+		<h3>	典型症狀：</h3>
 
+		<h4><br>1.	持續性咳嗽、咳血</br>
+		<br>2.	胸悶或胸痛</br>
+		<br>3.	呼吸發喘或困難</br>
+		<br>4.	聲音嘶啞</br>
+		<br>5.	吞嚥困難</br>
+		<br>6.	頸部淋巴結腫大</br>
+		<br>7.	極度疲倦</br>
+		<br>8.	體重下降</br>
+		<br>9.	食慾不振</br></h4>
+		<h3>預防：</h3>
+		<h4><br>1.	不吸菸與戒菸</br>
+		<br>2.	留意職場汙染</br>
+		<br>3.	空氣汙染環境</br>
+		<br>4.	良好生活品質</br></h4>
+		<h3>典型治療：</h3>
+		<h4><br>1.	手術治療</br>
+		<br>2.	化學治療</br>
+		<br>3.	放射線治療</br>
+		<br>4.	標靶治療</br>
+		<br>5.	免疫治療</br>
+		<br>6.	多元療法</br></h4>
+		<h2>三、  乳癌</h2>
+		<h3>症狀：</h3>
+		<h4><br>1.	無痛性乳房腫塊
+		<br>2.	乳頭凹陷
+		<br>3.	乳頭異樣分泌物， 尤其是帶血分泌物
+		<br>4.	乳房外型改變，局部凹陷或凸出
+		<br>5.	乳房皮膚有橘 皮樣變化，紅腫或潰爛
+		<br>6.	腫大的腋下淋巴腺</h4>
 
+		<img src="http://web.tccf.org.tw/40/image/breast05.jpg"width="500px" height="430px">
+		<img src="https://cw1.tw/CH/images/content_images/a3cfcf2b-db7f-462b-8f4e-7bf867b052af.PNG"width="500px" height="430px">
 
+        	<h3>預防:</h3>
+		<h4><br>1.	喝綠茶或咖啡</br>
+		<br>2.	新鮮蔬果579</br>
+		<br>3.	減肥</br>
+		<br>4.	睡到自然醒</br>
+		<br>5.	每天運動流汗30分鐘</br>
+		<br>6.	跳開脂肪誘惑</br>
+		<br>7.	戒菸、戒酒、戒檳榔</br>
+		<br>8.	餵母乳</br>
+		<br>9.	保持輕鬆的情緒</br>
+		<br>10.	去做癌症篩檢</br></h4>
+		<h3>治療：</h3>
+		<h4><br>1.	手術切除</br>
+		<br>2.	放射線治療</br>
+		<br>3.	化學治療</br>
+		<br>4.	賀爾蒙療法</br></h4>
+		<h2>四、  針對癌症設置安寧病房在台分佈：</h2>
+		<iframe src="https://plotdb.io/v/chart/20865" width="100%" height="600px" allowfullscreen="true" frameborder="0"></iframe>
+    </body>
+</html>
 
-### 大腸癌
-
-大腸癌七種典型症狀
-1.	未減肥但體重逐漸減輕
-2.	裡急後重，常出現不明原因的持續便意
-3.	出現輕微的缺鐵性貧血
-4.	排便習慣改變
-5.	糞便如鉛筆一樣細
-6.	排便出血或糞便中帶有黏液
-7.	經常出現腹痛或絞痛
-
-大腸癌預防：均衡飲食
-<br>預防大腸癌是一件輕而易舉的事。你只要在日常飲食和生活中作出小小改變，奉行以下的健康生活習慣，便能預防或減少患上大腸癌的風險</br>
-1.	多吃全穀類、豆類、水果和蔬菜等高纖維食物
-2.	減少進食紅肉和加工肉食
-3.	恆常運動
-4.	保持健康體重及腰圍
-5.	避免飲酒
-6.	避免吸煙
-
-大腸癌治療
-<br>健保自6月起已針對大腸癌第四期轉移的病患給付化學藥物「抗癌妥（irinotecan）」合併標靶藥「癌思婷（bevacizumab）」作為癌友的第一線治療</br>
-
-### 肺癌
-
-肺癌前兆
-1.	持續性咳嗽、咳血
-2.	胸悶或胸痛
-3.	呼吸發喘或困難
-4.	聲音嘶啞
-5.	吞嚥困難
-6.	頸部淋巴結腫大
-7.	極度疲倦
-8.	體重下降
-9.	食慾不振
-
-肺癌治療
-1.	手術治療
-2.	化學治療
-3.	放射線治療
-4.	標靶治療
-5.	免疫治療
-6.	多元療法
-
-預防肺癌牢記4招
-<br>從肺癌五年平均存活率來看，因肺癌導致死亡的機率是相當高的，雖然醫療科技日益進步，但治療過程中免不了因手術或化療帶來痛楚。醫學界常說：「預防勝於治療」自然有它的道理。</br>
-1.	不吸菸與戒菸
-2.	留意職場汙染
-3.	空氣汙染環境
-4.	良好生活品質
-
-### 乳癌
-
-乳癌前兆
-1.	無痛性乳房腫塊
-2.	乳頭凹陷
-3.	乳頭異樣分泌物， 尤其是帶血分泌物
-4.	乳房外型改變，局部凹陷或凸出
-5.	乳房皮膚有橘 皮樣變化，紅腫或潰爛
-6.	腫大的腋下淋巴腺
-
-乳癌治療
-1.	手術切除
-2.	放射線治療 
-3.	化學治療
-4.	賀爾蒙療法
-
-乳癌預防10種預防乳癌的生活方式
-1.	喝綠茶或咖啡
-2.	新鮮蔬果579
-3.	減肥
-4.	睡到自然醒
-5.	每天運動流汗30分鐘
-6.	跳開脂肪誘惑
-7.	戒菸、戒酒、戒檳榔
-8.	餵母乳
-9.	保持輕鬆的情緒
-10.	去做癌症篩檢
-
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s05410111/cancer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
