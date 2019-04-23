@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Ch06-01</title>
+        <title>三大癌症在台灣</title>
         <style>img{float:right}
 		img {
   display: block;
